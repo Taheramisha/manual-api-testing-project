@@ -23,23 +23,23 @@ Manual & API Test Cases
 
 Sheet Contents:
 
-30 Manual Test Cases
+1.30 Manual Test Cases
 
-8 Failed Test Cases
+2. 8 Failed Test Cases
 
-API Test Cases (GET, POST, PUT, PATCH, DELETE)
+3. API Test Cases (GET, POST, PUT, PATCH, DELETE)
 
-Execution Results (UI + API)
+4. Execution Results (UI + API)
 
-Bug Report with screenshots
+5. Bug Report with screenshots
 
 Access Notes:
 
-Requires Google Account
+1. Requires Google Account
 
-Set to “View Only”
+2. Set to “View Only”
 
-Request edit access if needed
+3. Request edit access if needed
 
 🌐 Project Overview
 
@@ -55,32 +55,32 @@ To validate the core e-commerce functionalities of the Evershop demo website thr
 
 Key Features Validated
 
-Product Search
+1. Product Search
 
-Product Details Page
+2. Product Details Page
 
-Cart Management
+3. Cart Management
 
-Checkout Flow
+4. Checkout Flow
 
-API Endpoints
+5. API Endpoints
 
-UI Components (buttons, forms, navigation)
+6. UI Components (buttons, forms, navigation)
 
 🎯 Test Scope & Exclusions
-In Scope
-Module	Test Coverage Details
-Product Search	Suggestions, spelling tolerance, numeric/special character search
-Product Details	Add to cart, size selection, image preview
-Cart	Update quantity, view cart, remove item
-Checkout	Form validation, address input, order flow
-API Endpoints	GET/POST/PUT/PATCH/DELETE validation via Postman
+1. In Scope
+2. Module	Test Coverage Details
+3. Product Search	Suggestions, spelling tolerance, numeric/special character search
+4. Product Details	Add to cart, size selection, image preview
+5. Cart	Update quantity, view cart, remove item
+6. Checkout	Form validation, address input, order flow
+7. API Endpoints	GET/POST/PUT/PATCH/DELETE validation via Postman
 Out of Scope
-Item	Reason
-Payment Integration	Not functional in demo website
-Admin Panel	Only user-facing pages tested
-Database Testing	Limited access
-Performance Testing	Not applicable for demo site
+1. Item	Reason
+2. Payment Integration	Not functional in demo website
+3. Admin Panel	Only user-facing pages tested
+4. Database Testing	Limited access
+5. Performance Testing	Not applicable for demo site
 🔬 Test Strategy & Approach
 1. Test Types
 Type	Tools/Methods Used	Coverage
