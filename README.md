@@ -18,7 +18,7 @@ Project Context & Key Learnings
 Manual & API Test Cases
 
 🔗 View Manual & API Test Case Sheet
-(Insert Sheet Link Here)
+(Manual Testing/Test case & Test case Execution.xlsx)
 
 Sheet Contents:
 
